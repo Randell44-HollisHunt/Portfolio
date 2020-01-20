@@ -1,0 +1,2 @@
+This project is basic code that returns responses to the user based on the 
+number range of user inputed answer.
